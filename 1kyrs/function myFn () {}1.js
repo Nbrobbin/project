@@ -1,3 +1,0 @@
-function myFn () {}
-
-myFn ()
