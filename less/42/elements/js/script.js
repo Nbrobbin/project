@@ -17,4 +17,10 @@ console.log(circle);
 
 const hearts = document.querySelectorAll('.heart');
 
-console.log(hearts);
+
+hearts.forEach(item => {
+    console.log(item);
+});
+
+const oneHeart = document.querySelector('.heart');
+console.log(oneHeart);
